@@ -1,0 +1,190 @@
+{
+  "page": {
+    "path": "/",
+    "title": "DSCR Rates Guide: What Affects Your Rate & How to Compare",
+    "h1": "DSCR Rates: What They Are and How to Compare",
+    "meta_description": "Learn what drives DSCR loan rates: DSCR ratio, LTV, points, reserves, credit, property type. Compare pricing factors and improve your rates with expert insights.",
+    "canonical": "https://dscrrater.com/",
+    "target_keywords": [
+      "DSCR rates",
+      "DSCR rate calculator", 
+      "compare DSCR rates",
+      "DSCR loan rates",
+      "debt service coverage ratio rates",
+      "investment property rates"
+    ],
+    "word_count": 1400,
+    "anchor_sections": [
+      {
+        "id": "quick-answer",
+        "title": "What Drives DSCR Rates Today?",
+        "heading_level": "h2"
+      },
+      {
+        "id": "rate-factors", 
+        "title": "The 7 Inputs That Move DSCR Pricing",
+        "heading_level": "h2"
+      },
+      {
+        "id": "estimator",
+        "title": "3-Input Example: Price, Rent, Target LTV", 
+        "heading_level": "h2"
+      },
+      {
+        "id": "states",
+        "title": "Pricing Nuance by State",
+        "heading_level": "h2"
+      },
+      {
+        "id": "property-types",
+        "title": "SFR vs 2-4 Units vs Condos vs STR",
+        "heading_level": "h2"
+      },
+      {
+        "id": "improve-pricing",
+        "title": "5 Ways Investors Lower DSCR Rates",
+        "heading_level": "h2"
+      },
+      {
+        "id": "docs-timeline",
+        "title": "What Impacts Pricing Review & Timeline", 
+        "heading_level": "h2"
+      },
+      {
+        "id": "faqs",
+        "title": "Frequently Asked Questions",
+        "heading_level": "h2"
+      }
+    ],
+    "cta_buttons": [
+      {
+        "text": "See My DSCR Options →",
+        "url": "https://www.shopdscrloans.com",
+        "location": "header",
+        "target": "_self"
+      },
+      {
+        "text": "See My DSCR Options →", 
+        "url": "https://www.shopdscrloans.com",
+        "location": "hero",
+        "target": "_self"
+      },
+      {
+        "text": "Compare Scenario Options →",
+        "url": "https://www.shopdscrloans.com", 
+        "location": "estimator",
+        "target": "_self"
+      },
+      {
+        "text": "See Realistic Options →",
+        "url": "https://www.shopdscrloans.com",
+        "location": "improve-pricing", 
+        "target": "_self"
+      },
+      {
+        "text": "See My DSCR Options →",
+        "url": "https://www.shopdscrloans.com",
+        "location": "footer",
+        "target": "_self"
+      }
+    ],
+    "internal_links": [
+      {
+        "text": "Florida DSCR Options →",
+        "url": "https://www.shopdscrloans.com/states/florida"
+      },
+      {
+        "text": "Texas DSCR Options →", 
+        "url": "https://www.shopdscrloans.com/states/texas"
+      },
+      {
+        "text": "Arizona DSCR Options →",
+        "url": "https://www.shopdscrloans.com/states/arizona"
+      },
+      {
+        "text": "Tennessee DSCR Options →",
+        "url": "https://www.shopdscrloans.com/states/tennessee"
+      },
+      {
+        "text": "Michigan DSCR Options →", 
+        "url": "https://www.shopdscrloans.com/states/michigan"
+      },
+      {
+        "text": "Indiana DSCR Options →",
+        "url": "https://www.shopdscrloans.com/states/indiana"
+      },
+      {
+        "text": "Ohio DSCR Options →",
+        "url": "https://www.shopdscrloans.com/states/ohio"
+      },
+      {
+        "text": "Georgia DSCR Options →",
+        "url": "https://www.shopdscrloans.com/states/georgia"
+      },
+      {
+        "text": "All DSCR Topics → shopdscrloans.com",
+        "url": "https://www.shopdscrloans.com"
+      }
+    ],
+    "external_links": [
+      {
+        "text": "Visit DSCR Loan Approval →",
+        "url": "https://dscrloanapproval.com"
+      },
+      {
+        "text": "Visit DSCR Down Payment →",
+        "url": "https://dscrloandownpayment.com"
+      },
+      {
+        "text": "Visit DSCR Loan Requirements →", 
+        "url": "https://dscrloanrequirements.com"
+      },
+      {
+        "text": "Visit DSCR Qualify →",
+        "url": "https://dscrqualify.com"
+      },
+      {
+        "text": "Visit DSCR Underwriting →",
+        "url": "https://dscrunderwriting.com"
+      }
+    ],
+    "structured_data": [
+      "FAQPage - 7 complete Q&As",
+      "HowTo - 6-step comparison guide", 
+      "Article - Complete article markup",
+      "BreadcrumbList - Navigation structure",
+      "Organization - DSCR Rater info",
+      "WebSite - Site structure"
+    ],
+    "seo_features": [
+      "Title tag optimized (58 characters)",
+      "Meta description optimized (155 characters)", 
+      "Canonical URL set",
+      "Open Graph tags complete",
+      "Twitter Card tags",
+      "Keywords meta tag",
+      "Robots meta tag",
+      "Language attributes",
+      "Viewport meta tag", 
+      "Character encoding set"
+    ],
+    "accessibility_features": [
+      "Semantic HTML structure",
+      "Proper heading hierarchy (H1 → H2 → H3)",
+      "ARIA labels on CTAs",
+      "Descriptive link text", 
+      "Keyboard navigation support",
+      "Color contrast compliance",
+      "Alt text placeholders ready"
+    ],
+    "performance_optimizations": [
+      "System font stack",
+      "Minimal JavaScript",
+      "No third-party widgets",
+      "Lazy loading ready",
+      "Stable layout structure",
+      "Compressed markup",
+      "Fast above-the-fold render"
+    ]
+  }
+}
